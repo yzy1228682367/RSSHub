@@ -4785,7 +4785,8 @@
       "/api/:tags?": {
         "path": "/api/:tags?",
         "categories": [
-          "traditional-media"
+          "traditional-media",
+          "popular"
         ],
         "example": "/apnews/api/business",
         "view": 0,
@@ -4819,8 +4820,7 @@
       "/rss/:category?": {
         "path": "/rss/:category?",
         "categories": [
-          "traditional-media",
-          "popular"
+          "traditional-media"
         ],
         "example": "/apnews/rss/business",
         "view": 0,
